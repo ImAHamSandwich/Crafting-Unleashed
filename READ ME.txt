@@ -1,0 +1,2 @@
+In order to install this pack, go into your world folder of choice, copy the datapack and launch the world! Then type
+/reload into the chat. This will reload the datapack and enable it.
